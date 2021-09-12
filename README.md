@@ -16,4 +16,5 @@ For example: nutural, angry, happy, etc.
 ## Demo :eyes:
 * unfinished
 
-Michael Hsueh 09/10/2021
+## License
+[MIT](LICENSE) © Tsuen Hsueh
