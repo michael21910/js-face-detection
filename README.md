@@ -12,9 +12,6 @@ git clone https://github/com/michael21910/js-face-detection.git
 ## What will you get :icecream:
 Shows someone's emotion in front of the camera.  
 For example: nutural, angry, happy, etc.
-
-## Demo :eyes:
-* unfinished
-
+  
 ## License
 [MIT](LICENSE) © Tsuen Hsueh
